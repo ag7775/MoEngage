@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978481150942",
+    "project_id": "moengage-51489",
+    "storage_bucket": "moengage-51489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978481150942:android:eec37bbdf6e97815cd3b4f",
+        "android_client_info": {
+          "package_name": "com.shivam.kotlin.moengage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978481150942-mc019ug30rh8a9k72ut22ccmt3n7r43f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvA0OWzLL-e-1_8CBUcQvNzSVK7M_TDg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978481150942-mc019ug30rh8a9k72ut22ccmt3n7r43f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
